@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aqekoequ.github.io/EON/sitemap_index.txt
+Sitemap: https://aqekoequ.github.io/JEC/sitemap_index.txt
+Sitemap: https://aqekoequ.github.io/lyh/sitemap_index.txt
+Sitemap: https://aqekoequ.github.io/mTY/sitemap_index.txt
